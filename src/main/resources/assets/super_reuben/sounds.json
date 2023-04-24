@@ -1,0 +1,12 @@
+{
+  "short_fanfare": {
+    "category": "neutral",
+    "subtitle": "subtitles.short_fanfare",
+    "sounds": [
+      {
+        "name": "super_reuben:short_fanfare",
+        "stream": false
+      }
+    ]
+  }
+}
